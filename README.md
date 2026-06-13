@@ -1,2 +1,0 @@
-# jomss
-activity
